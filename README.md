@@ -42,3 +42,7 @@ Got DMTF 3
 Session ended
 Main loop terminated.
 bash-3.2# 
+
+== Questions ==
+
+Feel free to contact me at itzik [dot] kotler (at) security-art [dot] com or @itzikkotler on Twitter
